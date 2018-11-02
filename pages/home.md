@@ -7,3 +7,5 @@ tags:
   - nav
 ---
 # COMING SOON
+
+![Bradley Acker](/static/img/bradley-acker.svg)
