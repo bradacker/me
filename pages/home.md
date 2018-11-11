@@ -1,11 +1,13 @@
 ---
 title: Home
-date: 2016-01-01T00:00:00.000Z
+date: 2018-11-11T03:00:00.000Z
 permalink: /
 navtitle: Home
 tags:
   - nav
 ---
-# COMING SOON
+# Welcome to my little slice of the World Wide Web. Make yourself at 🏠, visit the blog and come back 🔜! 
+
+# 🥃 Cheers 🍻
 
 ![Bradley Acker](/static/img/bradley-acker.svg)
