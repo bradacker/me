@@ -2,7 +2,7 @@
 title: Home
 date: 2018-11-11T03:00:00.000Z
 permalink: /
-navtitle: Home
+navtitle: "\U0001F64B\U0001F3FB‍♂️"
 tags:
   - nav
 ---
