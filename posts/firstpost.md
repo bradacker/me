@@ -13,7 +13,7 @@ I haven't read a story book like this in a long time. It usually takes me foreve
 
 After picking up some digital cash from Amazon by delaying shipping, I decided to pick [this book](https://amzn.to/2SYiAsT) up (Kindle version $1.99 at time of purchase and writing).
 
-![american kingpin pdf](/static/img/american-kingpin-book.png)
+![american kingpin pdf](/static/img/american-kingpin.png)
 
 I will add more thoughts here when I'm done. Currently, I'm about 98% through the book.
 
