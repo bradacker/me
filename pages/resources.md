@@ -10,7 +10,7 @@ This is a list of tools and other resources I use and recommend. This page will 
 
 **Disclosure:** Some of the products listed below have affiliate or referral links that will give me a small commission if you decide to purchase. This doesn't cost you any more money and let's me know that this page is useful. Also, since I'm pretty frugal, most of these are free or have generous free plans. Feel free to donate to the cause: Send  [Bradley Acker using PayPal.Me](https://www.paypal.me/bradacker)
 
-___
+- - -
 
 [Notion - The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/?r=892b20553658417698489dba3073b731)
 
@@ -42,6 +42,6 @@ Password Manager: [LastPass.com](https://lastpass.com/f?2379616)
 
 **Daily Fantasy Football**
 
-[Fanduel](<https://www.fanduel.com/?invitedby=b1acker&cnl=mado&utm_campaign=User Referral&utm_medium=iOS&utm_source=Referral Center&utm_content=Link>)
+Fanduel
 
 \--
