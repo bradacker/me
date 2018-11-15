@@ -15,7 +15,9 @@ After picking up some digital cash from Amazon by delaying shipping, I decided t
 
 ![american kingpin pdf](/static/img/american-kingpin.png)
 
-I will add more thoughts here when I'm done. Currently, I'm about 98% through the book.
+Great story with lots of details. Amazing, since the author never interviewed Ross or his parents.
+
+A small detail towards the beginning of the creation of the Silk Road is what ultimately got Ross caught. Why he was living in America or even stayed after the run in with cops was also stupid. Variety Jones (his online mentor) warned him and told him he needed to  go into hiding.
 
 ## Final Thoughts
 
@@ -23,10 +25,10 @@ Overall great story for those that love dramas with drugs, girls and tech.
 
 ```text/2-3
 // Ross Ulbricht created the Silk Road
-function myCommand() {
+function myCommand(FROSTY) {
 	estimated = $1.2 billion;
 	counter++;
 }
 ```
 
-My rating is __/100.
+My rating is **94/100**.
