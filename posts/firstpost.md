@@ -9,11 +9,13 @@ tags:
   - nick bilton
   - amazon
 ---
-I haven't read a story book like this in a long time. It usually takes me forever or I don't complete the book. Not this time. After picking up some digital cash from Amazon by delaying shipping, I decided to pick [this book](https://amzn.to/2SYiAsT) up (Kindle version $1.99 at time of purchase and writing).
+I haven't read a story book like this in a long time. It usually takes me forever or I don't complete the book. Not this time. 
 
-![american kingpin pdf](/static/img/americankingpin.png)
+After picking up some digital cash from Amazon by delaying shipping, I decided to pick [this book](https://amzn.to/2SYiAsT) up (Kindle version $1.99 at time of purchase and writing).
 
-I will add more thoughts here when I'm done. Currently, I'm about 75% through the book.
+![american kingpin pdf](/static/img/american-kingpin.png)
+
+I will add more thoughts here when I'm done. Currently, I'm about 98% through the book.
 
 ## Final Thoughts
 
