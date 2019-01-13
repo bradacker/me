@@ -1,5 +1,5 @@
 ---
-title: How to Find the Best Price
+title: How to Find the Best Price Shopping Online
 date: 2018-12-21T03:07:26.856Z
 summary: >-
   Here's a list of tips and websites to help you find the best deals online.
@@ -14,4 +14,4 @@ tags:
 
 [Camel Camel Camel](https://camelcamelcamel.com/)
 
-Post in progress! Come back soon for update!
+Post in progress! Come back soon for an update!
