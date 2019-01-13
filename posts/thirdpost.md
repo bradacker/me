@@ -12,3 +12,5 @@ GoDaddy to Google Domains in 15 minutes.
 Why? Simple.
 
 $12 per year.
+
+How to get started from [Google](https://support.google.com/domains/answer/3453651?hl=en&ref_topic=3314003).
