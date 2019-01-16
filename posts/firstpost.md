@@ -20,6 +20,8 @@ After picking up some digital cash from Amazon by delaying shipping, I decided t
 
 The book details a great true story with lots of details. Amazing, since the author never interviewed Ross (the Kingpin) or his parents.
 
+> "Awesome book which reminds me a little of the TV series Breaking Bad" - Noah Kagan
+
 This is one of the historic crimes of our lifetime. Ross Ulbright's laptop that he created and ran the Silk Road is in the Nuseum.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">‘Silk Road’ Laptop which lead to the seizure of over 140,000 bitcoin. On display at the Newseum in Washington .. <a href="https://t.co/fccuI3GfzO">https://t.co/fccuI3GfzO</a> <a href="https://t.co/MD54K4gQk9">pic.twitter.com/MD54K4gQk9</a></p>&mdash; Bitcoin EDU (@BitcoinEdu) <a href="https://twitter.com/BitcoinEdu/status/942119414215745536?ref_src=twsrc%5Etfw">December 16, 2017</a></blockquote>
