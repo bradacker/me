@@ -1,7 +1,7 @@
 ---
 title: Apple Stock
 date: 2019-05-31T01:16:42.901Z
-summary: Links and resources (updated 5/30/2019)
+summary: Links and resources (updated 1/22/2020)
 tags:
   - Apple
   - Stocks
