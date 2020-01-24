@@ -9,3 +9,5 @@ tags:
 Hello World!
 
 My name is Brad Acker.
+
+I live in Tulsa, Oklahoma.
