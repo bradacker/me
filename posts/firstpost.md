@@ -12,9 +12,9 @@ tags:
 I haven't read a story book like this in a long time. It usually takes me forever or I don't complete the book. Not this time. 
 
 * **Date Started:** 2018-11-03
-* **Date Finished:** 2018 -11-10
+* **Date Finished:** 2018-11-10
 
-After picking up some digital cash from Amazon by delaying shipping, I decided to pick [this book](https://amzn.to/2SYiAsT) up (Kindle version $1.99 at time of purchase and writing). I highly recommend you do as well.
+After picking up some digital cash from Amazon by delaying shipping, I decided to pick [this book](https://amzn.to/2SYiAsT) up (Kindle version $1.99 at the time of purchase and writing). I highly recommend you do as well.
 
 ![american kingpin pdf](/static/img/american-kingpin.png)
 
