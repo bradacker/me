@@ -7,6 +7,8 @@ tags:
   - Stocks
   - Investing
 ---
+<http://www.movingaverages.com/pivot-points/AAPL>
+
 <https://www.cmlviz.com/profile/AAPL>
 
 <https://investor.apple.com/investor-relations/default.aspx>
