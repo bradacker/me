@@ -19,11 +19,14 @@ tags:
 
 <https://www.stocksplithistory.com/?symbol=AAPL>
 
+<https://www.chartmill.com/stock/quote/AAPL/profile>
+
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0k8z","geo":"US","time":"2004-01-01 2019-05-31"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=%2Fm%2F0k8z","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
 <https://www.tradingview.com/symbols/NASDAQ-AAPL/>
 
 <!-- TradingView Widget BEGIN -->
+
 <div class="tradingview-widget-container">
   <div id="tradingview_cc916"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
