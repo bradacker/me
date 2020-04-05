@@ -35,7 +35,7 @@ tags:
   "interval": "1D",
   "width": "100%",
   "isTransparent": true,
-  "height": "100%",
+  "height": "450",
   "symbol": "NASDAQ:AAPL",
   "showIntervalTabs": true,
   "locale": "en",
