@@ -20,7 +20,7 @@ See the links below for more in depth information.
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": "80%",
+  "width": "100%",
   "height": "650",
   "symbol": "NASDAQ:AAPL",
   "interval": "D",
