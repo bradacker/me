@@ -62,9 +62,9 @@ See the links below for more in depth information.
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
   {
   "interval": "1D",
-  "width": "80%",
+  "width": "100%",
   "isTransparent": true,
-  "height": "450",
+  "height": "475",
   "symbol": "NASDAQ:AAPL",
   "showIntervalTabs": true,
   "locale": "en",
