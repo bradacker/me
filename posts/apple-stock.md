@@ -9,8 +9,6 @@ tags:
 ---
 See the links below for more in depth information.
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0k8z","geo":"US","time":"2004-01-01 2020-04-30"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=%2Fm%2F0k8z","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
-
 <https://www.tradingview.com/symbols/NASDAQ-AAPL/>
 
 <!-- TradingView Widget BEGIN -->
@@ -22,9 +20,8 @@ See the links below for more in depth information.
   <script type="text/javascript">
   new TradingView.widget(
   {
-   "width": "80%",
-  "isTransparent": true,
-  "height": "550",
+  "width": "80%",
+  "height": "650",
   "symbol": "NASDAQ:AAPL",
   "interval": "D",
   "timezone": "Etc/UTC",
@@ -73,6 +70,8 @@ See the links below for more in depth information.
   </script>
 </div>
 <!-- TradingView Widget END -->
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0k8z","geo":"US","time":"2004-01-01 2020-04-30"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=%2Fm%2F0k8z","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
 <http://www.movingaverages.com/pivot-points/AAPL>
 
