@@ -7,6 +7,18 @@ tags:
   - Stocks
   - Investing
 ---
+
+
+```
+var xmlHttp = new XMLHttpRequest();
+xmlHttp.onreadystatechange = function() {
+    if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+        callback(xmlHttp.responseText);
+}
+xmlHttp.open('GET', 'https://api.stockdio.com/data/financial/info/v1/GetCompanyInfo?app-key=&symbol=AAPL',true);
+xmlHttp.send(null);
+```
+
 See the links below for more in depth information.
 
 <https://www.tradingview.com/symbols/NASDAQ-AAPL/>
