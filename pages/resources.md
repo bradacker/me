@@ -38,7 +38,7 @@ Password Manager: [LastPass.com](https://lastpass.com/f?2379616)
 
 [Sign Up for an Account | Personal Capital](https://share.personalcapital.com/x/3piX5Z) ($20 Amazon.com gift card for both of us. That's $20 for you, and $20 for me). Offer valid only for new customers who link a qualified investment account (e.g. taxable brokerage, 401k, IRA, 529, etc).
 
-[Robinhood - Free Stock Trading](http://share.robinhood.com/bradlea13)
+[Robinhood - Free Stock Trading](https://join.robinhood.com/bradlea13)
 
 \--
 
