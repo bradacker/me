@@ -13,7 +13,7 @@ summary: >-
 tags:
   - post
 ---
-As a copywriter, I'm always on the lookout for interesting books that can help me improve my craft and give me new ideas for my work. Recently, I picked up ["Bad Blood: Secrets and Lies in a Silicon Valley Startup" by John Carreyrou, and I have ](https://amzn.to/3vQoOA2)to say, it's one of the most captivating and eye-opening books I've read in a long time.
+As a copywriter, I'm always on the lookout for interesting books that can help me improve my craft and give me new ideas for my work. Recently, I picked up ["Bad Blood: Secrets and Lies in a Silicon Valley Startup"](https://amzn.to/3vQoOA2) by John Carreyrou, and I have to say, it's one of the most captivating and eye-opening books I've read in a long time.
 
 For those who aren't familiar with the book, "Bad Blood" tells the story of Elizabeth Holmes, the founder and CEO of Theranos, a company that claimed to have developed revolutionary blood-testing technology. The company was hailed as a startup sensation, with its valuation reaching billions of dollars and Holmes becoming the youngest self-made female billionaire in the world.
 
