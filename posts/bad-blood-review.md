@@ -13,7 +13,7 @@ summary: >-
 tags:
   - post
 ---
-As a copywriter, I'm always on the lookout for interesting books that can help me improve my craft and give me new ideas for my work. Recently, I picked up "Bad Blood: Secrets and Lies in a Silicon Valley Startup" by John Carreyrou, and I have to say, it's one of the most captivating and eye-opening books I've read in a long time.
+As a copywriter, I'm always on the lookout for interesting books that can help me improve my craft and give me new ideas for my work. Recently, I picked up ["Bad Blood: Secrets and Lies in a Silicon Valley Startup" by John Carreyrou, and I have ](https://amzn.to/3vQoOA2)to say, it's one of the most captivating and eye-opening books I've read in a long time.
 
 For those who aren't familiar with the book, "Bad Blood" tells the story of Elizabeth Holmes, the founder and CEO of Theranos, a company that claimed to have developed revolutionary blood-testing technology. The company was hailed as a startup sensation, with its valuation reaching billions of dollars and Holmes becoming the youngest self-made female billionaire in the world.
 
@@ -21,8 +21,10 @@ However, as Carreyrou delves deeper into the story, it becomes clear that there 
 
 One of the things I found most interesting about "Bad Blood" was the way it highlighted the dangers of charisma and the power of a compelling narrative. Holmes was a master at selling her vision and convincing others to buy into it, even as the company was struggling to deliver on its promises. But the book isn't just a salacious tale of deceit and greed. It's a cautionary tale about the importance of fact-checking and not getting swept up in hype, and it's a lesson that I think all copywriters and marketers should take to heart.
 
- When ambition trumps integrity, and it serves as a reminder to always be skeptical of too-good-to-be-true claims.
+![Bad Blood book](/static/img/4c906f4e-23cf-4a15-9df2-b8616b71522e.jpeg "Bad Blood Theranos Elizabeth Holmes ")
+
+When ambition trumps integrity, and it serves as a reminder to always be skeptical of too-good-to-be-true claims.
 
 Another thing I appreciated about the book was the level of detail and the thoroughness of Carreyrou's reporting. It's clear that he did his homework and wasn't afraid to ask tough questions, and the result is a book that feels credible and well-researched.
 
-Overall, I'd highly recommend "Bad Blood" to anyone interested in business, startups, or the dangers of deception. It's a fast-paced and engaging read that will keep you on the edge of your seat until the very end.
+Overall, I'd highly recommend ["Bad Blood"](https://amzn.to/3vQoOA2) to anyone interested in business, startups, or the dangers of deception. It's a fast-paced and engaging read that will keep you on the edge of your seat until the very end.
