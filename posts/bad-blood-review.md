@@ -21,7 +21,7 @@ However, as Carreyrou delves deeper into the story, it becomes clear that there 
 
 One of the things I found most interesting about "Bad Blood" was the way it highlighted the dangers of charisma and the power of a compelling narrative. Holmes was a master at selling her vision and convincing others to buy into it, even as the company was struggling to deliver on its promises. But the book isn't just a salacious tale of deceit and greed. It's a cautionary tale about the importance of fact-checking and not getting swept up in hype, and it's a lesson that I think all copywriters and marketers should take to heart.
 
-![Bad Blood book](/static/img/4c906f4e-23cf-4a15-9df2-b8616b71522e.jpeg "Bad Blood Theranos Elizabeth Holmes ")
+![Bad Blood book](/static/img/dd62c517-03ef-4cd7-b6f1-dae01e3780ff.jpeg "Bad Blood Theranos Elizabeth Holmes ")
 
 When ambition trumps integrity, and it serves as a reminder to always be skeptical of too-good-to-be-true claims.
 
