@@ -22,6 +22,4 @@ One of the things that I found most interesting about The Mastermind is the way 
 
 Another thing that I appreciated about the book is the way it explores the intersection of technology and crime. Le Roux was a master of using technology to his advantage, and the book provides a fascinating look at how he used the internet to build his criminal empire.
 
-Overall, I highly recommend [The Mastermind](https://amzn.to/3X35YS2) to anyone who is looking for a thrilling read. The book is well-written, well-researched, and provides a unique insight into the mind of a criminal. It's a must-read for fans of true crime and anyone interested in the intersection of technology and crime.
-
-In conclusion, The Mastermind is a real page-turner, and Evan Ratliff does an excellent job of bringing the story of Paul Le Roux to life. It is a must-read for fans of true crime and anyone interested in the intersection of technology and crime. It is hard to put down once you start reading it.
+Overall, I highly recommend [The Mastermind](https://amzn.to/3X35YS2) to anyone who is looking for a thrilling read. It is hard to put down once you start reading it. The book is well-written, well-researched, and provides a unique insight into the mind of a criminal. It's a must-read for fans of true crime and anyone interested in the intersection of technology and crime.
