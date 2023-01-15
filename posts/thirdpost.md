@@ -1,5 +1,5 @@
 ---
-title: My Google Domains Review
+title: "Dominating the Domain Game: In-Depth Review of Google Domains"
 date: 2018-11-18T18:00:00.000Z
 summary: How to easily transfer your domains to Google and my experience so far.
 tags:
