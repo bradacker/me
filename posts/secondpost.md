@@ -1,7 +1,12 @@
 ---
 title: How to Start a Blog with Netlify CMS for Free
 date: 2019-01-01T00:00:00.000Z
-summary: Start a free blog that you can grow into the future.
+summary: Want to start a blog but don't know where to begin? Look no further!
+  This guide will show you how to use Netlify CMS to create a free,
+  professional-looking blog in no time. Learn how to set up your own custom
+  domain and integrate it with Netlify CMS for easy content management. Say
+  goodbye to costly website builders and hello to your very own, personalized
+  blog. Start now!
 tags:
   - Netlify
   - Github
