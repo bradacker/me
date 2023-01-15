@@ -9,6 +9,8 @@ summary: The Mastermind by Evan Ratliff is a thrilling true crime book that
   intersection of technology and crime.
 tags:
   - post
+  - Amazon
+  - book review
 ---
 If you're looking for a thrilling read that will keep you on the edge of your seat, look no further than [Evan Ratliff's The Mastermind](https://amzn.to/3X35YS2). This book tells the true story of Paul Le Roux, a mysterious figure who built a criminal empire from the comfort of his own home.
 
