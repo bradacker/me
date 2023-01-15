@@ -11,14 +11,27 @@ tags:
   - Stocks
   - Investing
 ---
-\
 Hey there! Apple Inc. is a big name in the tech world. Based in California, this company designs, develops, and sells all kinds of cool stuff like smartphones, tablets, computers, media players, smartwatches, and even smart speakers. They also make operating systems, media players, web browsers, and other software. Plus, they have online stores and services like iTunes, the App Store, and iCloud.
 
 As an investment, Apple has a solid history of making lots of money. In fact, it's one of the most valuable companies on the planet and has consistently been a top performer in the S&P 500 index. Apple's got a lot going for it, like a strong brand, loyal customers, and a wide range of products and services. They've also been good at sharing the wealth with shareholders through dividends and share buybacks.
 
-Of course, nothing is perfect, and that includes investing in Apple. The tech industry is always changing, and there's always the chance that Apple could lose market share to competitors or that their products could become outdated. Plus, the company relies heavily on a few key products like the iPhone, so any problems with these products could seriously hurt their financial performance. Before you invest in Apple or any other company, it's important to think about all the potential risks and do your research.
+Of course, nothing is perfect, and that includes investing in Apple. The tech industry is always changing, and there's always the chance that Apple could lose market share to competitors or that their products could become outdated. Plus, the company relies heavily on a few key products like the iPhone, so any problems with these products could seriously hurt their financial performance. Before you [invest in Apple](https://investor.apple.com/investor-relations/default.aspx) or any other company, it's important to think about all the potential risks and do your research.
+
+I highly recommend [Robinhood](https://join.robinhood.com/bradlea13), if you need a broker to invest. You can buy fractional shares for a dollar and slowly add over time.
 
 See the links below for more in depth information.
+
+### Unlocking Apple's Untapped Potential: Why Wearables and AR/VR are the Key to Doubling the Business
+
+I have closely followed the trajectory of Apple, one of the world's most iconic and successful companies. And yet, even with their impressive track record, I believe there is a huge potential for growth that many analysts seem to be overlooking.
+
+#### *The wearable technology market and the rapidly emerging field of virtual and augmented reality.*
+
+The Apple Watch is already a wildly successful product, but the wearables market is still in its infancy, and as more consumers turn to these devices to enhance their daily lives, the opportunity for growth is tremendous. And let's not forget the recent launch of AirPods and AirPods Pro, which have been a hit among customers and the soon to be launched new models will drive the company's growth in the wearables market.
+
+But it's not just wearables where Apple's untapped potential lies. The company's recent acquisitions in the AR/VR field indicate a clear interest in this technology, and I believe it's only a matter of time before we see these cutting-edge capabilities integrated into [Apple's existing products such as iPhones, iPads, and Macs](https://amzn.to/3QEKpox). This integration could open up new revenue streams for the company and drive long-term growth.
+
+In short, while Apple is already a business powerhouse, I believe the company's future is even brighter than its past. And that's why I'm bullish on Apple's stock.
 
 <https://www.tradingview.com/symbols/NASDAQ-AAPL/>
 
