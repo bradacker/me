@@ -8,8 +8,13 @@ summary: Here's a list of tips and websites to help you find the best deals
   friday" special.
 tags:
   - post
+  - tips
+  - money
+  - Amazon
 ---
 Are you ready to discover the ultimate tips and tricks for finding the best shopping prices and deals online? If you're like most people, you're always looking for ways to save money on your purchases. Whether you're shopping for clothes, electronics, or groceries, finding the best deals can be a challenge.
+
+Not happening? Skip the tips below and see [Amazon deals](https://amzn.to/3iEdfsv).
 
 Fortunately, there are a few simple strategies you can use to find the best prices and deals online. Here are some tips on how to save money and get the best shopping deals online:
 
