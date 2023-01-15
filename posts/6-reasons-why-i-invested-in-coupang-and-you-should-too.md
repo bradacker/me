@@ -9,6 +9,8 @@ summary: Why is Coupang a great investment? Let me tell you more about Coupang.
   to find out more.
 tags:
   - post
+  - stocks
+  - investing
 ---
 As a savvy investor, you're always on the lookout for the next big thing. And when it comes to e-commerce, there's no bigger thing than [Coupang](https://www.aboutcoupang.com/). This South Korean giant is quickly becoming one of the most successful and profitable companies in the world, and for good reason.
 
