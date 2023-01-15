@@ -1,5 +1,5 @@
 ---
-title: How to Find the Best Price Shopping Online
+title: How To Become An Online Shopping Master
 date: 2018-12-21T03:07:26.856Z
 summary: Here's a list of tips and websites to help you find the best deals
   online. It's hard to know if you're really getting a good deal with so many
