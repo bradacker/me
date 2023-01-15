@@ -1,5 +1,6 @@
 ---
-title: "Bad Blood Review "
+title: Review of "Bad Blood" - The Shocking Story of Silicon Valley's Most
+  Notorious Scandal
 date: 2023-01-08T17:25:59.106Z
 summary: >-
   If you're interested in learning about the rise and fall of Theranos, a
@@ -12,6 +13,8 @@ summary: >-
   Ultimately, "Bad Blood" is a compelling read because it shows how one person's lies and manipulation can have far-reaching consequences, affecting not only the company's employees and investors, but also the millions of people who were counting on Theranos to revolutionize healthcare.
 tags:
   - post
+  - book review
+  - Amazon
 ---
 As a copywriter, I'm always on the lookout for interesting books that can help me improve my craft and give me new ideas for my work. Recently, I picked up ["Bad Blood: Secrets and Lies in a Silicon Valley Startup"](https://amzn.to/3vQoOA2) by John Carreyrou, and I have to say, it's one of the most captivating and eye-opening books I've read in a long time.
 
