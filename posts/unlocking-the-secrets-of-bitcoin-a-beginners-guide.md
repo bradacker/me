@@ -30,3 +30,16 @@ With 21 million as the cap, there are currently over 19 million Bitcoin in exist
 ### What Determines its Price?
 
 Like other investments, the price of Bitcoin is driven by supply and demand, influenced by factors like company and individual acceptance, investor sentiment, central bank policy, inflation, and foreign exchange rates.
+
+\-﻿-
+
+Do you want to take control of your financial future with the power of Bitcoin? But are you worried about the security and ease of use of crypto platforms? Well, buckle up, because Gemini is here to revolutionize the way you think about cryptocurrency!
+
+With Gemini, you'll enjoy:
+
+1. Unmatched Security: With regulation and top-notch security measures in place, you can rest assured that your Bitcoin is in safe hands.
+2. Intuitive User Experience: Whether you're a seasoned pro or a newbie, Gemini's user-friendly interface and mobile app make it a breeze to buy, hold, and store your Bitcoin.
+3. Insured Protection: Gemini holds customer funds with FDIC insurance protection, so you can have peace of mind knowing your investment is backed.
+4. Effortless Bitcoin Purchases: Say goodbye to complicated and time-consuming purchase processes. With Gemini, buying Bitcoin with fiat currencies has never been simpler.
+
+Have you seen the [Gemini app](https://gemini.com/share/zaarl4ds9)? Try it using my code and we'll each get $10 USD of Bitcoin.
