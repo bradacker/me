@@ -13,6 +13,8 @@ tags:
 ---
 Are you drowning in a sea of tasks, constantly struggling to keep up with your to-dos? The fast-paced world can be overwhelming, but imagine simplifying your life and accomplishing more in less time. Introducing [Workflowy](https://workflowy.com/invite/a570c44.lnk), the game-changing productivity powerhouse.
 
+![Workflowy ](/static/img/workflowy.jpeg "Workflowy example")
+
 ### 🖊️ What is Workflowy?
 
 It's a simple tool for organizing and managing your life, but don't be fooled by its minimalist appearance. Behind it lies a powerhouse that's helping people worldwide achieve more. Create unlimited bullet-point lists for anything from daily tasks to long-term goals. Its intuitive interface makes organizing simple, without complicated software.
