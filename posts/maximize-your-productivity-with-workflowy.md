@@ -1,6 +1,6 @@
 ---
 title: Maximize Your Productivity with Workflowy
-date: 2023-01-30T00:58:38.455Z
+date: 2023-01-26T00:58:38.455Z
 summary: Streamline your tasks with Workflowy - a simple, flexible, and portable
   productivity tool that helps you get more done in less time. Its
   straightforward bullet-point list format, collaboration features, and
