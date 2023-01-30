@@ -19,3 +19,7 @@ A skilled copywriter (like me) can help you increase your profits by writing com
 Finding a inexpensive, talented copywriter you can depend on AND afford is difficult. If you're looking for someone who is passionate about helping people sell…
 
 I'd love to help you with your next project. Contact me today!
+
+Need a simple website? 
+
+I have several years of experience and a passion for making visually stunning and user-friendly sites. Let's build a landing page, blog section, and much more…but that's easy for you to update and makes you proud.
