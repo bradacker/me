@@ -1,6 +1,5 @@
 ---
-title: "Maximizing Returns, Minimizing Taxes: The Power of Tax Loss Harvesting
-  for the Savvy Investor"
+title: "Maximizing Returns, Minimizing Taxes: The Power of Tax Loss Harvesting"
 date: 2023-01-16T02:23:27.662Z
 summary: "As a savvy investor, you know the importance of maximizing returns
   while minimizing taxes. Enter: tax loss harvesting. This powerful strategy
